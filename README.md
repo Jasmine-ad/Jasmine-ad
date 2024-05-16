@@ -1,13 +1,12 @@
 - Hello. G'day. こんにちは！
 - Jasmine here!
-- Like Bilbo Baggins I'm going on an adventure. Hopefully less dangerous, but full of new meetings, learnings and connections.
 - I am ......
 - ⌨ coding (learning: CSS, HTML, Javascript)
-- ✏️ designing (water color, sketching, digital art, canva)
-- 📸 taking photos
-- 🍙 eating all the food, and 🏃‍♀️ running it off (Training for Nagoya Womens Marathon 2024) 
+- ✏️ creating (water color, sketching, digital art, canva)
+- 🍙 eating, and
+- 🏃‍♀️ running (✅ Nagoya Womens Marathon 2024, Training for Shonen 10k) 
 
-- ***PORTFOLIO IN PROGRESS*** (stay tuned)
+- ***PORTFOLIO IN PROGRESS***
   
 - Find me in all these places:
 - insta: tokyo.tuesdays
